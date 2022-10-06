@@ -1,2 +1,2 @@
-# tela-login
-Tela Login feita co objetivo de estudo, usando as linguagens HTML e CSS.
+# Tela de Login
+### Tela Login feita com objetivo de estudar as linguagens HTML e CSS.
